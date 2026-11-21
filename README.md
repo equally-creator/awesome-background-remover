@@ -41,6 +41,8 @@
 - [Sider](https://sider.ai/create/image/background-remover): Offers an AI background remover as part of its “create image” suite, enabling users to produce transparent cutouts for various applications.
 - [Vheer](https://vheer.com/background-remover): Integrates background removal into its broader AI image editing platform, allowing you to erase and replace backgrounds with custom scenes.
 
+- [BackGone](https://backgone.com): A free browser-based background remover that also cuts out animated GIFs, with no sign-up required.
+
 ## 💰 Paid Services
 
 - [Remove.bg](https://remove.bg): An AI-powered tool that automatically removes backgrounds from images in seconds, offering high-quality results for personal and professional use.
