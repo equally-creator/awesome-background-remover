@@ -24,6 +24,7 @@
 - [PicWish](https://picwish.com): Delivers one-click background removal and batch processing so you can prepare multiple product images at once.
 - [Erase.bg](https://erase.bg): Automatically detects and erases backgrounds, outputting clean cutouts suitable for marketing and personal projects.
 - [PhotoRoom](https://photoroom.com): Tailored for product photography, it removes backgrounds and adds customizable templates to create polished listings in seconds.
+- [BackGone](https://backgone.com): Free browser-based background remover with no account, full-resolution export, and animated GIF support.
 - [Bgeraser](https://bgeraser.com): A no-frills tool that quickly removes backgrounds, leaving you with high-resolution subject cutouts.
 - [Cutout.](https://cutout.): Specializes in AI-driven background removal, letting you isolate subjects with minimal effort (enter domain for access).
 - [Removal.ai](https://removal.ai): Offers a fast, cloud-based background eraser that also provides batch processing for bulk image editing.
